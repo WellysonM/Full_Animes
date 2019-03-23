@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.social
+{
+    float: right;
+    width: 50px;
+    height: 50px;
+}
+
+
+.grupo {
+    margin:50px auto;
+    width:500px;
+    background:#bec0c6;
+    
+    border:1px solid #494578;
+}
+
+div.campo label {
+    width:100%;
+    display: block;
+    background:#222;
+    border-top:1px solid #262626;
+    border-bottom:1px solid #161712;
+    padding:10px 0 10px 0;
+    color: #259;
+    font-family: 'arial'
+}
+ .input_text {
+    top: 10px;
+    padding:10px 10px;
+    width:200px;
+    background:#eadbdb;
+    border-bottom: 1px double #171717;
+    border-top: 1px double #171717;
+    border-left:1px double #333333;
+    border-right:1px double #333333;
+    color: #259;
+}
+
+.button{
+    font-size: 100%;
+    margin:0 0 10px 0;
+    padding:15px 15px;
+    background:#6f7389;
+    border:0px;
+    position: relative;
+    top:6px;
+    width:100px;
+    border-bottom: 2px double #6f7389;
+    border-top: 2px double #6f7389;
+    border-left:2px double #6f7389;
+    border-right:2px double #6f7389;
+}
+.icone
+{
+    margin-bottom:-13px;
+    width: 50px;
+    height: 50px;
+}
